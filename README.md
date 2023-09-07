@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kapeliuzhna
+- 👋 Hi, I’m Kseniia
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Business Intelligence
 - 💞️ I’m looking to collaborate on developer field
